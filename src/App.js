@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import BookList from "./components/BookList";
-import { ApolloClient } from "apollo-boost";
+import ApolloClient  from "apollo-boost";
 //import { ApolloClient } from 'apollo-boost';
 import { ApolloProvider } from "@apollo/react-hooks";
 
